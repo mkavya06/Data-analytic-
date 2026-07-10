@@ -1,0 +1,24 @@
+# Strategies With Tableau: A College Food Choices Case Study
+
+## Project Overview
+This project analyzes college students' food choices using Tableau. The dashboard provides insights into eating habits, food preferences, and factors influencing food selection.
+
+## Objectives
+- Analyze food choice patterns.
+- Identify healthy and unhealthy eating habits.
+- Create interactive Tableau dashboards.
+- Present insights using data visualization.
+
+## Tools Used
+- Tableau
+- CSV Dataset
+- GitHub
+
+## Project Files
+- Dataset (.csv)
+- Tableau Workbook (.twb/.twbx)
+- Dashboard Screenshots
+- Project Report
+
+## Conclusion
+This project demonstrates how Tableau can be used to visualize and analyze food choice data for better decision-making.
