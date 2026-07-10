@@ -1,0 +1,4 @@
+tableau-api-lib
+pandas
+numpy
+openpyxl
